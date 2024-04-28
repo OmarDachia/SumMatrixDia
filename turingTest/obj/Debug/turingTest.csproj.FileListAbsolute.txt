@@ -1,0 +1,6 @@
+c:\users\udachias\documents\visual studio 2012\Projects\turingTest\turingTest\bin\Debug\turingTest.exe.config
+c:\users\udachias\documents\visual studio 2012\Projects\turingTest\turingTest\bin\Debug\turingTest.exe
+c:\users\udachias\documents\visual studio 2012\Projects\turingTest\turingTest\bin\Debug\turingTest.pdb
+c:\users\udachias\documents\visual studio 2012\Projects\turingTest\turingTest\obj\Debug\turingTest.csprojResolveAssemblyReference.cache
+c:\users\udachias\documents\visual studio 2012\Projects\turingTest\turingTest\obj\Debug\turingTest.exe
+c:\users\udachias\documents\visual studio 2012\Projects\turingTest\turingTest\obj\Debug\turingTest.pdb
